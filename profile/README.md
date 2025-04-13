@@ -5,4 +5,4 @@
 
 ## 联系我们
 
-![联系我们](../qrcode.png)
+<img src="../qrcode.png" alt="联系我们" style="zoom: 15%;" />
